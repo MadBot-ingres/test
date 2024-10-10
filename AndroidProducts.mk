@@ -5,4 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zeus.mk
+    $(LOCAL_DIR)/lineage_ingres.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_ingres-user \
+    lineage_ingres-userdebug \
+    lineage_ingres-eng
