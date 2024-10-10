@@ -1,9 +1,9 @@
-Copyright (C) 2022-2023 The LineageOS Project
+Copyright (C) 2024 The LineageOS Project
 
-Device configuration for Xiaomi 12 Pro
+Device configuration for Xiaomi Redmi K50 Gaming/Xiaomi POCO F4 GT
 =========================================
 
-The Xiaomi 12 Pro (codenamed _"zeus"_) is a high-end smartphone from Xiaomi.
+The POCO F4 GT/Redmi K50G (codenamed _"ingres"_) is a high-end smartphone from Xiaomi/POCO.
 
 It was globally released in March 2022.
 
@@ -14,10 +14,10 @@ Basic   | Spec Sheet
 Platform | Snapdragon® 8 Gen 1 (SM8450)
 RAM & Storage | 8GB/128GB, 8GB/256GB, 12GB/256GB (LPDDR5 RAM, UFS 3.1 storage)
 Shipped Android Version | 12
-Battery | Non-removable, 4600 mAh
-Display | 6.73″, LTPO 120Hz, 3200x1440 (522 ppi)
-Rear camera | 50MP wide angle, 50MP ultra wide-angle, 50MP telephoto
-Front camera | 32MP in-display
+Battery | Non-removable, 4700 mAh
+Display | 6.67″, OLED 120Hz, 2400x1080
+Rear camera | 64MP wide angle, 8MP ultra wide-angle, 2MP macro
+Front camera | 20MP in-display
 
 ## Device picture
 
