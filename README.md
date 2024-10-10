@@ -21,4 +21,5 @@ Front camera | 20MP in-display
 
 ## Device picture
 
-![Xiaomi 12 Pro](https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646293765.11623978.png "Xiaomi 12 Pro in blue")
+![image](https://github.com/user-attachments/assets/5553d44c-ceb4-4935-bd10-ed9ccea76c08)
+
