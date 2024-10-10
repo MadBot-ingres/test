@@ -21,5 +21,6 @@ Front camera | 20MP in-display
 
 ## Device picture
 
-![image](https://github.com/user-attachments/assets/5553d44c-ceb4-4935-bd10-ed9ccea76c08)
+![image](https://github.com/user-attachments/assets/77f6743b-e56e-413e-a02c-a5bc08eb43dd)
+
 
