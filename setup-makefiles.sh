@@ -43,7 +43,7 @@ fi
 
 set -e
 
-export DEVICE=zeus
+export DEVICE=ingres
 export DEVICE_COMMON=sm8450-common
 export VENDOR=xiaomi
 export VENDOR_COMMON=${VENDOR}
